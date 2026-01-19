@@ -2,28 +2,18 @@
   <header class="header">
     <section class="main">
       <h1>
-        <img src="./assets/images/logo.webp" />
-        PayQrcode
+        <img src="./assets/images/logo.png" />
+        二合一收款码物理合并版
       </h1>
-      <h2>二合一收款码物理合并版</h2>
     </section>
   </header>
   <main>
     <t-space direction="vertical">
       <t-alert theme="info">
         <template #message>
-          开源：
-          <t-link
-            theme="primary"
-            underline
-            href="https://github.com/uxiaohan/PayQrcode"
-            target="_blank"
-          >
-            PayQrcode
-          </t-link>
-          ，技术支持：
-          <t-link theme="primary" underline href="https://www.vvhan.com" target="_blank">
-            韩小韩博客
+          技术支持：
+          <t-link theme="primary" underline href="https://wpzy.cc" target="_blank">
+            AQ网盘资源论坛
           </t-link>
         </template>
       </t-alert>
